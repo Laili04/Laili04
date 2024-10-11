@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Laili04
-- 👀 I’m interested in Administrative tasks and general writer
-- 🌱 I’m currently learning project management tools, basic design, and basic Excel formulas
-- 💞️ I’m looking to collaborate on Administrative assistance and data entry
-- 📫 How to reach me by email: kim131250@gmail.com and Instagram @Laili_virtualassistant
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# <summary><strong>Hi there :wave: , I'm Laili!</strong></summary>
+Lifelong Learner, currently working as Freelace.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-<!---
-Laili04/Laili04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
+### <summary><strong>Yosh!</strong></summary>
+<p>
+    - :keyboard: I’m currently learning Project Management tools, Basic Design, and Basic Excel Formulas. </br>
+    - :speech_balloon: Ask me about anything.</br>
+    - :mailbox: How to reach me: <a href="mailto:kim131250@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: She/Her. </br>
+    - :game_die: Drawing and writing are part of me. </br>
+<p>
+ 
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://twitter.com/yours">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/laili_virtualassistant/">
+  <img align="left" alt="Laili's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
