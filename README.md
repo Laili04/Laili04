@@ -16,3 +16,7 @@ Lifelong Learner, currently working as a Freelance Administrative Assistant.
 <a href="https://www.instagram.com/laili_virtualassistant/">
   <img align="left" alt="Laili's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+
+<a href="https://www.linkedin.com/nurlaili99/">
+  <img align="left" alt="Laili's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
