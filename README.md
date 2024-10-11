@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Laili!</strong></summary>
-Lifelong Learner, currently working as Freelace.
+Lifelong Learner, currently working as a Freelance Administrative Assistant.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
